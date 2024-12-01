@@ -5,3 +5,6 @@ MAKE SURE TO HAVE PYTHON3 INSTALLED
 COPY SERVER FOLDER/FILE ON THE SERVER U WANT TO HOST FROM
 
 OPEN "SERVER.PY" AND CHANGE THE "CHANGE ME IP" TO YOUR CHOSEN SERVER IP ADDRESS (USE TAILSCALE OR SOME KIND OF VNET APP TO LINK DEVICES TO STOP FROM PORT FOWARDING EXPOSING THE SERVER TO MUCH) AND CHANGE PORT TO A WORKING AND FREE PORT
+
+
+please share ur modifications that you make on the app we are interested in the communitys opinion and wants and needs as for this is a way to start messaging without no company trying to steal your data and try sending adds your way!
